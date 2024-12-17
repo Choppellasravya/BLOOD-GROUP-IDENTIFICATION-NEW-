@@ -42,6 +42,9 @@ How to Run the Project
 Conclusion
 The system combines Django's secure backend with OpenCV's advanced image processing to provide accurate blood type predictions. It offers a user-friendly experience for both personal and medical use. Ensures data security and enhances accessibility to blood typing information.
 
+this is my team link
+https://github.com/TypeSense-Tech/Blood_Group_Identification
+
 Acknowledgments
 Special thanks to the team and mentors for their guidance and support throughout the project.
 
